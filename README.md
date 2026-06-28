@@ -53,36 +53,26 @@ python Task_2_Tic_Tac_Toe_AI.py
 ```
 
 ---
-
-# Task 3: Image Captioning
+# Task 4: Recommendation System
 
 ### Description
 
-An image captioning application that uses a pre-trained transformer-based model (BLIP) to generate captions for input images.
+A simple content-based recommendation system that recommends movies based on the user's preferred category.
 
 ### Features
 
-- Image caption generation
-- Pre-trained Transformer Model
-- Automatic caption prediction
+- Category-based recommendations
+- Simple content filtering
+- Easy command-line interaction
 
 ### Technologies Used
 
 - Python
-- Transformers
-- PyTorch
-- Pillow
-
-### Install Dependencies
-
-```bash
-pip install transformers torch pillow
-```
 
 ### Run
 
 ```bash
-python Task_3_Image_Captioning.py
+python Task_4_Recommendation_System.py
 ```
 
 ---
