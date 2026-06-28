@@ -87,30 +87,6 @@ python Task_3_Image_Captioning.py
 
 ---
 
-# Task 4: Recommendation System
-
-### Description
-
-A simple content-based recommendation system that recommends movies based on the user's preferred category.
-
-### Features
-
-- Category-based recommendations
-- Simple content filtering
-- Easy command-line interaction
-
-### Technologies Used
-
-- Python
-
-### Run
-
-```bash
-python Task_4_Recommendation_System.py
-```
-
----
-
 # Task 5: Face Detection
 
 ### Description
